@@ -1,5 +1,5 @@
 # Project4-MapMyWorld
-This project is about create the mapping algorithm to find 2D occupancy grid and 3D octomap from Gazabe simulated environment using robot with the RTAB-Map package in ROS.
+This project is to create the mapping algorithm to find 2D occupancy grid and 3D octomap from Gazabe simulated environment using robot with the RTAB-Map package in ROS.
 in Gazabe virtual world in ROS to fing 2D map and 
 
 
