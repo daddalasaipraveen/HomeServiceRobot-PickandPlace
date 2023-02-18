@@ -192,9 +192,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 2. Remember to rename your `~/.ros/rtabmap.db` before your next attempt since it will be deleted due to the launch file setting in `mapping.launch`
 
 ## Picture of final Map
-![1](https://user-images.githubusercontent.com/89826843/219452164-78396dd3-ac08-4c5b-a1a6-5b8f34c8e2f2.png)
-![2](https://user-images.githubusercontent.com/89826843/219452186-66731f33-b32b-485b-8bd7-5078b5e64ed8.png)
-![3](https://user-images.githubusercontent.com/89826843/219452209-2866b50d-0478-465b-a7a5-f12d9530dde9.png)
-![5](https://user-images.githubusercontent.com/89826843/219452239-a72baf09-4d04-4f27-8a0d-ec55deb8f139.png)
+![Screenshot 2023-02-18 032859](https://user-images.githubusercontent.com/89826843/219857009-4d26b32a-14b3-43ac-9914-5c2b59fd4e22.png)
+
 
 
