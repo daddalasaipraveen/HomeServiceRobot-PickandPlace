@@ -19,6 +19,6 @@ sleep 5
 
 xterm -e "source devel/setup.bash; roslaunch turtlebot_rviz_launchers view_navigation.launch" &
 sleep 5
-#rviz_path:=\"/home/workspace/Project4-MapMyWorld/catkin_ws/src/rvizconfig/rviz_marker_conf.rviz\"
+#rviz_path:=\"/home/workspace/Project4-MapMyWorld/catkin_ws/src/rvizconfig/home_service_robot.rviz\"
 
 xterm -e "source devel/setup.bash; rosrun add_markers add_markers"
